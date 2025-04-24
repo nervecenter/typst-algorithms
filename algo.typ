@@ -655,6 +655,8 @@
 //   body: Algorithm content.
 //   header: Algorithm header. Overrides title and parameters.
 //   title: Algorithm title. Ignored if header is not none.
+//   front-matter: Content to appear after the header but before the
+//     algorithm body, above the line numbers.
 //   Parameters: Array of parameters. Ignored if header is not none.
 //   line-numbers: Whether to have line numbers.
 //   strong-keywords: Whether to have bold keywords.
