@@ -684,6 +684,7 @@
   header: none,
   title: none,
   parameters: (),
+  front-matter: none,
   line-numbers: true,
   strong-keywords: true,
   keywords: _algo-default-keywords,
@@ -751,6 +752,7 @@
     #set align(start + top)
     #algo-header
     #v(weak: true, row-gutter)
+    front-matter
     #align(left, algo-table)
   ]
 
