@@ -752,7 +752,7 @@
     #set align(start + top)
     #algo-header
     #v(weak: true, row-gutter)
-    front-matter
+    #front-matter
     #align(left, algo-table)
   ]
 
